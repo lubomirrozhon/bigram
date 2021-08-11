@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestNew" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-11T18:02:48" hostname="DESKTOP-ESLHTO8" time="0.015">
+  <properties/>
+  <testcase name="Test wrong number of words" classname="TestNew" time="0.015"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
