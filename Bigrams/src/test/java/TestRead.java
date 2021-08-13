@@ -12,7 +12,7 @@ import java.util.logging.Logger;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class TestOfTest {
+public class TestRead {
 
    // @BeforeEach
    // public void initialize(){

@@ -19,13 +19,16 @@ public class Read {
         ps.println("Input:");
 
         String text = scanner.nextLine();
-        text = text.toLowerCase();
-        text = text.replaceAll("\\p{Punct}", "");
+
 
         return text;
     }
 
     public List<String> getBigrams(String input) throws Exception {
+        input = input.toLowerCase();
+        input = input.replaceAll("\\p{Punct}", "");
+
+
         List<String> bigrams = new ArrayList<>();
         String[] words = input.split(" ");
 
